@@ -4,9 +4,9 @@
 module.exports = {
   port: '4000',
   dest: 'dist',
-  base: '/example/',
-  title: 'EXAMPLE',
-  description: 'example',
+  base: '/example-gh-pages/',
+  title: 'example-gh-pages',
+  description: 'example-gh-pages',
   head: [['link', { rel: 'icon', href: `/favicon.ico` }]],
   markdown: {
     externalLinks: {
@@ -16,7 +16,7 @@ module.exports = {
   },
   themeConfig: {
     logo: 'images/kuzank-logo.png',
-    repo: 'kuzank/example',
+    repo: 'kuzank/example-gh-pages',
     repoLabel: 'Github',
     docsDir: 'docs',
     docsBranch: 'master',
@@ -35,7 +35,7 @@ module.exports = {
           },
           {
             text: 'Gitee',
-            link: 'https://gitee.com/kuzank/example',
+            link: 'https://gitee.com/kuzank/example-gh-pages',
             target: '_blank',
             rel: ''
           }
