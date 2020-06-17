@@ -1,9 +1,11 @@
 <h1 align="center">GitHub Page Example</h1>
 
-> GitHub Page 模板
->
-> - 🔁 项目同步维护：[Github](https://github.com/kuzank/example-gh-pages/) | [Gitee](https://gitee.com/kuzank/example-gh-pages/)
-> - 📖 电子书阅读：[Github Pages](https://kuzank.github.io/example-gh-pages/) | [Gitee Pages](http://kuzank.gitee.io/example-gh-pages/)
+GitHub Page 模板
+
+|  🐿 项目维护    | 🐶 电子书阅读  |
+| ---- | ---- | 
+|  [Github](https://github.com/kuzank/example-gh-pages/)   |  [Github Pages](https://kuzank.github.io/example-gh-pages/)    | 
+|  [Gitee](https://gitee.com/kuzank/example-gh-pages/)   |  [Gitee Pages](http://kuzank.gitee.io/example-gh-pages/)    | 
 
 
 ## how to user
@@ -12,3 +14,7 @@
 - 3、set up https://travis-ci.org/,enable CI on your repositorie
 - 3、push local branch to you remote branch
 - 4、open your website and what you 
+
+
+## thanks
+thanks [dunwu](https://github.com/dunwu) and his repositories where I had learned travis-ci.
