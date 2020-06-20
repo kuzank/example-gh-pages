@@ -15,7 +15,7 @@ module.exports = {
     }
   },
   themeConfig: {
-    logo: 'images/kuzank-logo.png',
+    logo: '/images/kuzank-logo.png',
     repo: 'kuzank/example-gh-pages',
     repoLabel: 'Github',
     docsDir: 'docs',
